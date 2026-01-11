@@ -4,7 +4,10 @@ a botnet in batch yes you read it right totally not an api
 
 how to download very simple disable windows defender because botnets are technicaly a virus 
 and run as admin it checks if its not admin and runs itself as admin
-what it looks like 
+
++----------------------+
+| what it looks like   |
++----------------------+
 
 
 
