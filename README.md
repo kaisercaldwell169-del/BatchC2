@@ -19,6 +19,16 @@ and run as admin it checks if its not admin and runs itself as admin
 
 
 
+
+
 passkeys are encrpted skiddz
 hash cat aint gonna do nun
+
+
+
+
 brute is buns bye skiddz
+
+
+
+also anything from github saying its malware is incorrect thats because its a botnet and botnets are technically malware 
